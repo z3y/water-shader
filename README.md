@@ -1,6 +1,6 @@
 # Simple Unity Water Shader
 
-### [Download](https://github.com/z3y/water-shader/releases/download/v1/Simple.Water.Shader.unitypackage)
+### [Download](https://github.com/z3y/water-shader/releases)
 
 Simple water shader similar to [clear water](https://gitlab.com/s-ilent/clear-water), but without any depth features so it doesn't require realtime shadows.
 
