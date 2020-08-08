@@ -1,2 +1,2 @@
 # water-shader
-Simple water shader without depth
+Simple Unity water shader without depth
